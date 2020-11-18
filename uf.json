@@ -1,0 +1,282 @@
+[
+  {
+    "iduf": 1,
+    "uf": "AC",
+    "nome": "Acre",
+    "nacional": "S",
+    "codigoIbge": 12,
+    "idPais": 30,
+    "idTimeZone": 191,
+    "inativo": 0
+  },
+  {
+    "iduf": 2,
+    "uf": "AL",
+    "nome": "Alagoas",
+    "nacional": "S",
+    "codigoIbge": 27,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 3,
+    "uf": "AM",
+    "nome": "Amazonas",
+    "nacional": "S",
+    "codigoIbge": 13,
+    "idPais": 30,
+    "idTimeZone": 151,
+    "inativo": 0
+  },
+  {
+    "iduf": 4,
+    "uf": "AP",
+    "nome": "Amapá",
+    "nacional": "S",
+    "codigoIbge": 16,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 5,
+    "uf": "BA",
+    "nome": "Bahia",
+    "nacional": "S",
+    "codigoIbge": 29,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 6,
+    "uf": "CE",
+    "nome": "Ceará",
+    "nacional": "S",
+    "codigoIbge": 23,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 7,
+    "uf": "DF",
+    "nome": "Distrito Federal",
+    "nacional": "S",
+    "codigoIbge": 53,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 8,
+    "uf": "ES",
+    "nome": "Espírito Santo",
+    "nacional": "S",
+    "codigoIbge": 32,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 9,
+    "uf": "GO",
+    "nome": "Goiás",
+    "nacional": "S",
+    "codigoIbge": 52,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 10,
+    "uf": "MA",
+    "nome": "Maranhão",
+    "nacional": "S",
+    "codigoIbge": 21,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 11,
+    "uf": "MG",
+    "nome": "Minas Gerais",
+    "nacional": "S",
+    "codigoIbge": 31,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 12,
+    "uf": "MS",
+    "nome": "Mato Grosso do Sul",
+    "nacional": "S",
+    "codigoIbge": 50,
+    "idPais": 30,
+    "idTimeZone": 87,
+    "inativo": 0
+  },
+  {
+    "iduf": 13,
+    "uf": "MT",
+    "nome": "Mato Grosso",
+    "nacional": "S",
+    "codigoIbge": 51,
+    "idPais": 30,
+    "idTimeZone": 99,
+    "inativo": 0
+  },
+  {
+    "iduf": 14,
+    "uf": "PA",
+    "nome": "Pará",
+    "nacional": "S",
+    "codigoIbge": 15,
+    "idPais": 30,
+    "idTimeZone": 79,
+    "inativo": 0
+  },
+  {
+    "iduf": 15,
+    "uf": "PB",
+    "nome": "Paraíba",
+    "nacional": "S",
+    "codigoIbge": 25,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 16,
+    "uf": "PE",
+    "nome": "Pernambuco",
+    "nacional": "S",
+    "codigoIbge": 26,
+    "idPais": 30,
+    "idTimeZone": 188,
+    "inativo": 0
+  },
+  {
+    "iduf": 17,
+    "uf": "PI",
+    "nome": "Piauí",
+    "nacional": "S",
+    "codigoIbge": 22,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 18,
+    "uf": "PR",
+    "nome": "Paraná",
+    "nacional": "S",
+    "codigoIbge": 41,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 19,
+    "uf": "RJ",
+    "nome": "Rio de Janeiro",
+    "nacional": "S",
+    "codigoIbge": 33,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 20,
+    "uf": "RN",
+    "nome": "Rio Grande do Norte",
+    "nacional": "S",
+    "codigoIbge": 24,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 21,
+    "uf": "RO",
+    "nome": "Rondônia",
+    "nacional": "S",
+    "codigoIbge": 11,
+    "idPais": 30,
+    "idTimeZone": 183,
+    "inativo": 0
+  },
+  {
+    "iduf": 22,
+    "uf": "RR",
+    "nome": "Roraima",
+    "nacional": "S",
+    "codigoIbge": 14,
+    "idPais": 30,
+    "idTimeZone": 82,
+    "inativo": 0
+  },
+  {
+    "iduf": 23,
+    "uf": "RS",
+    "nome": "Rio Grande do Sul",
+    "nacional": "S",
+    "codigoIbge": 43,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 24,
+    "uf": "SC",
+    "nome": "Santa Catarina",
+    "nacional": "S",
+    "codigoIbge": 42,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 25,
+    "uf": "SE",
+    "nome": "Sergipe",
+    "nacional": "S",
+    "codigoIbge": 28,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 26,
+    "uf": "SP",
+    "nome": "São Paulo",
+    "nacional": "S",
+    "codigoIbge": 35,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 27,
+    "uf": "TO",
+    "nome": "Tocantins",
+    "nacional": "S",
+    "codigoIbge": 17,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  },
+  {
+    "iduf": 28,
+    "uf": "EX",
+    "nome": "Exterior",
+    "nacional": "N",
+    "codigoIbge": 99,
+    "idPais": 30,
+    "idTimeZone": 197,
+    "inativo": 0
+  }
+]
